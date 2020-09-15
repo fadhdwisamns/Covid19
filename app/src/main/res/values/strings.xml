@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="covid">Mari bekerja sama mencegah penyebaran \n
+    virus covid-19 dengan cara saling berbagi \n
+    informasi tentang kondisi kesehatan \n
+    dan lokasi anda</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="umur">Umur</string>
+    <string name="jenis_kelami">Jenis Kelamin</string>
+    <string name="telepon">Nomer Telepeon</string>
+    <string name="daftar">Registrasi</string>
+    <string name="kota">Kota Domisili</string>
+    <string name="kembali">Kembali</string>
+    <string name="pertanyaan">Apakah anda mengalami gejala sbb ?</string>
+    <string name="flu">Bersin Bersin</string>
+    <string name="batuk">Batuk Kering</string>
+    <string name="nyeri">Nyeri otot atau kelelahan</string>
+    <string name="sesak">Kesulitan bernafas</string>
+    <string name="update">Update status kesehatan saya</string>
+    <string name="terimakasih">TERIMA KASIH</string>
+    <string name="ket_sehat">Untuk saat ini anda tidak mengalami gejala-gejala yang terkait dengan virus Covid-19 \n
+        \n Namun anda tetap perlu menjaga jarak fisik dengan orang lain \n
+        untuk mencegah penularan dan selalu update status kesehatan anda di aplikasi ini</string>
+    <string name="tutup">TUTUP</string>
+
+</resources>
